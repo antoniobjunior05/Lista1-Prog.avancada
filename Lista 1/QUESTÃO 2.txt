@@ -1,0 +1,1 @@
+supondo que i esteja no endereço 4904, vai ser impresso 4094 4096 4094 12282 4098
